@@ -35,4 +35,4 @@ Spring Boot приложение для управления книгами с �
 
 Запрос: `GET http://localhost:8080/api/books`
 
-![GET http://localhost:8080/api/books](https://github.com/aasemikov/{java-book-api}/raw/main/report/img/1.png)
+![GET http://localhost:8080/api/books](https://github.com/aasemikov/java-book-api/raw/main/report/img/1.png)
